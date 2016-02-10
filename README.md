@@ -1,2 +1,5 @@
-# superplayer-ubuntu
-You will love this app! De um up na sua vida com superplayer.fm
+# superplayer.fm Ubuntu WebApp
+
+A simple web app to show superplayer.fm :shipit:
+
+made with love by: [@brunoocasali](github.com/brunoocasali)
