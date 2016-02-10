@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=superplayer.fm
+Comment=webapp for superplayer.fm
+Type=Application
+Icon=superplayer.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=http://*.superplayer.fm/* https?://superplayer.fm/* http://*.cdn.superplayer.fm/* http://superplayer.fm %u
+Terminal=false
+X-Ubuntu-Touch=true

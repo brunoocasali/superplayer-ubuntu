@@ -1,0 +1,17 @@
+{
+    "name": "superplayer.brunoocasali",
+    "description": "description of superplayer",
+    "architecture": "all",
+    "title": "superplayer",
+    "hooks": {
+        "superplayer.fm": {
+            "apparmor": "superplayer.fm.apparmor",
+            "desktop":  "superplayer.fm.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Bruno Casali <brunoocasali@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
